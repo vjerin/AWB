@@ -7,7 +7,7 @@ The program stores the data in the table awb inside the database summer_training
 The program uses mysql connector : pymysql package.
 </pre>
 <hr>
-## Components
+# Components
 <pre>
 	1.BOOKING
 	2.TRACKING
